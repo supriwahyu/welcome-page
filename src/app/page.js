@@ -5,7 +5,7 @@ export default function Home() {
     <>
     <main className="flex min-h-screen flex-col items-center justify-between p-14 bg-gray-100 font-sans">
       <h1 className="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl">Welcome</h1>
-      <p className="text-sm md:text-base font-normal text-gray-600">Published 19 February 2019</p>
+      <p className="text-sm md:text-base font-normal text-gray-600">Published 29 January 2024</p>
 			<p className="py-6 text-gray-900 indent-8">
       Long time ago was hard, i knew, we struggling to find something that make us happy or answer from our question what really we want, i have been there too, the struggling is real its like we want to scream it to let it go and never felt that again, but at that time we are to young too realize that its not necessary to find it and how to get it, and this is for my future me too who will read this again, that life its not about find the answer of our happiness,
       </p>
